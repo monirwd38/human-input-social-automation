@@ -65,7 +65,7 @@ Nothing goes live without your confirmation.
 ```
 🗓️ Content Day! — Monday, June 16
 
-TOPIC: n8n দিয়ে invoice automation
+TOPIC: invoice automation with n8n
 AUDIENCE: business
 TYPE: case_study
 IMAGE: dark minimal
@@ -74,7 +74,7 @@ EXTRA: Bangladesh er small business focus korte
 
 **You reply:**
 ```
-TOPIC: n8n দিয়ে invoice automation
+TOPIC: invoice automation with n8n
 AUDIENCE: business
 TYPE: case_study
 IMAGE: dark minimal
