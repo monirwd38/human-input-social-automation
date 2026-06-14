@@ -265,7 +265,7 @@ nexthive-social-automation/
 
 I build custom automation workflows for businesses, agencies, and solopreneurs.
 
-📩 hello@nexthiv.com
+📩 monir.shazib@gmail.com
 🌐 nexthiv.com
 💼 linkedin.com/in/moniruzzaman-dev
 
