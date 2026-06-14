@@ -1,4 +1,4 @@
-# 🤖 NextHive — Human Input Interactive AI Social Media Automation
+# 🤖 NextHive — Human Input Interactive AI Social Media Automation with n8n
 
 > A fully interactive, human-in-the-loop social media automation workflow built with n8n, GPT-4o, DALL·E 3, and Telegram. You stay in control — the AI does the heavy lifting.
 
